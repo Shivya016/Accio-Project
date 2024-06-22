@@ -1,0 +1,16 @@
+*{background-color: black;}
+.btn{background-color: white; color: black;border: none;}
+#clear{background-color: black;color:white}
+h1{color: white;}
+#current{color: white;}
+#error{color:#E74C3C ;}
+#container{padding: 20px;margin: auto;}
+button{margin: 10px;width: 150px;height: 40px;  cursor: pointer;}
+#clearButton {
+    background-color: #000000; 
+    color: #ffffff; 
+    padding: 10px 20px; 
+    border-style: solid;
+  border-color:white;
+    cursor: pointer;
+}
